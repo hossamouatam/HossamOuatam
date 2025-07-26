@@ -8,23 +8,14 @@ I'm a passionate Data Analyst with expertise in working with data to derive mean
 
 
 <h2>🚀 Skills and Tools I Use</h2>
-<p>
-    <a target="_blank" href="https://www.python.org/" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" />
-    </a>
-    <a target="_blank" href="https://www.sql.com/" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original-wordmark.svg" alt="sql" width="50" height="50" />
-    </a>
-    <a target="_blank" href="https://pandas.pydata.org/" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="50" height="50" />
-    </a>
-    <a target="_blank" href="https://matplotlib.org/" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50" />
-    </a>
-    <a target="_blank" href="https://seaborn.pydata.org/" style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="50" height="50" />
-    </a>
+<p align="center">
+    <span class="fa fa-python" style="font-size: 50px; color: #306998;"></span>
+    <span class="fa fa-database" style="font-size: 50px; color: #F0DB4F;"></span>
+    <span class="fa fa-cogs" style="font-size: 50px; color: #64A12D;"></span>
+    <span class="fa fa-line-chart" style="font-size: 50px; color: #003B49;"></span>
+    <span class="fa fa-paint-brush" style="font-size: 50px; color: #9B4F96;"></span>
 </p>
+
 
 ## 📊 What I Do
 I specialize in:
