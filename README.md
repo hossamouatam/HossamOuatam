@@ -1,7 +1,7 @@
 # Hi 👋, I'm Hossam
 
 I'm a passionate Data Analyst with expertise in working with data to derive meaningful insights. My focus is on analyzing and visualizing data to solve real-world business problems.  
-🌎 From: Morocco  
+🌎 Based in: Germany   
 📫 Reach me at: Hossam.html@gmail.com  
 🛠️ Tech Stack: Python | SQL | Pandas | Matplotlib | Seaborn | Excel
 
